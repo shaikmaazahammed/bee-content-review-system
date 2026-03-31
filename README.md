@@ -1,2 +1,19 @@
-# bee-content-review-system
-A content submission and brand compliance system for Bee Mentorship, ensuring all Instagram posts follow brand guidelines, design rules, and tone of voice.
+# 🐝 Bee Content Review System
+
+A content submission and brand compliance tool for Bee Mentorship.
+
+## 🎯 Purpose
+Ensure all Instagram content follows:
+- Brand colors
+- Typography rules
+- Logo guidelines
+- Safe zones
+- Tone of voice
+
+## 🚀 Features
+- Upload content
+- Caption submission
+- Brand checklist validation
+- Scoring system
+
+## ▶️ Run
